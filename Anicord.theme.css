@@ -21,6 +21,7 @@
 
 /* Theme Import */
 @import url('https://raw.githubusercontent.com/sang765/Anicord-Theme/main/themes/Anicord.css');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
 /* CSS You Can Custom */
 :root {
 	--app-bg: url(https://raw.githubusercontent.com/sang765/Anicord-Theme/main/assets/themeimage.png); /* background */
